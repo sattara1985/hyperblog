@@ -17,5 +17,7 @@ En este curso vemos de todo
 - steven attara martinez
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
+- Incluye ejemplos en Windows, Linux y Mac todo en uno
+- Disponible para todas las edades de humanos
 
 Y como un amable recordatorio: **Este readme.md es un chiste.** Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a [**VER EL CURSO**.](https://platzi.com/clases/1557-git-github/19960-ignorar-archivos-en-el-repositorio-con-gitignore/ "ver el curso.")
