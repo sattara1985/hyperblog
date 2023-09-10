@@ -14,6 +14,7 @@ En este curso vemos de todo
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
 -  Creado por el increíble Platzi Team
+- steven attara martinez
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
 
